@@ -1,0 +1,7 @@
+[
+  {
+    "name": "org.apache.ignite.ignite_core.Greeting",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]
